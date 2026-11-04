@@ -1,0 +1,24 @@
+Formulaire de contact 
+
+Parle-nous de tes jeux préférés ! 
+
+Tes informations 
+
+Nom * Ton nom 
+Prénom * Ton prénom 
+Adresse * Ton adresse 
+Code postal * Ex. : 42000 Ville * 
+Ta ville Adresse e-mail * toi@exemple.fr 
+Date de naissance * 
+
+Tes préférences de jeu 
+Quels genres de jeux aimes-tu ? 
+Jeux d’aventure Jeux de stratégie Jeux de course 
+
+Sur quelle plateforme joues-tu le plus ? * 
+PC Console Mobile 
+
+Ton message 
+Écris ton message ici... 
+
+Envoyer le formulaire

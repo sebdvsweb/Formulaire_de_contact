@@ -1,0 +1,38 @@
+/*
+  FEUILLE DE STYLE À COMPLÉTER
+
+  Objectif : reproduire la mise en forme du modèle.
+
+  Repères visuels :
+  - Police : Rajdhani (Google Fonts), sans-serif
+  - Fond général :  #171a2b
+  - Texte général : #f4f2ff
+  - Fond du formulaire : #24283d
+  - Bordures : bleu-gris #414766 / #515878
+  - Violet clair des titres : #c9b8ff
+  - Turquoise : #8fe3d2
+  - Fond des champs : #191d30
+  - Fond des choix : #2d324a
+
+  Dimensions et espacements :
+  - Padding général sur le body
+
+  - Formulaire : 
+  largeur 100%, largeur maximale 620px, centré horizontalement, padding et border-radius
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box
+}
+
+/* Mise en forme générale de la page */
+body {
+    font-family: "Rajdhani", sans-serif;
+}
+
+form {
+    
+} 
